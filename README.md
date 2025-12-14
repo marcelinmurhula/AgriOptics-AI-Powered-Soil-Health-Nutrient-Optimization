@@ -1,4 +1,4 @@
-This project has made thanks to Kaggle. The service gave me a ready-to-code environment with all libraries pre-installed, free computing power for my models, and easy dataset handling.
+This project has been made thanks to Kaggle. The service gave me a ready-to-code environment with all libraries pre-installed, free computing power for my models, and easy dataset handling.
 # Soil Nutrient Data Analysis and Modeling Project
 
 ## Overview
