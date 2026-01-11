@@ -28,7 +28,7 @@ The dataset used in this project contains soil nutrient data with the following 
 - **Principal Component Analysis (PCA):** PCA is used to reduce the dimensionality of the dataset and visualize the principal components.
 - **Clustering:** K-means clustering is applied to categorize districts based on soil nutrient data.
 - **Regression Modeling:** A RandomForestRegressor model predicts nitrogen content based on pH level and organic matter percentage.
-- **Efficiency Analysis:** Calculate and analyze the efficiency of nitrogen, phosphorus, and potassium utilization across different districts.
+- **Efficiency Analysis:** Calculate and analyze the efficiency of nitrogen, phosphorus, and potassium utilization across different district.
 
 ## Results
 
